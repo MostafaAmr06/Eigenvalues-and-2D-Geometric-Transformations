@@ -30,6 +30,6 @@ def graph():
     plt.xticks(range(-12,25 ))
     plt.yticks(range(-12,25))
     plt.legend()
-    plt.grid(True)
+    plt.grid(True, alpha=0.2)
 
 
