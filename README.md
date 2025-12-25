@@ -1,6 +1,6 @@
 # Eigenvalues-and-2D-Geometric-Transformations
 
-This repository contains Python/MATLAB code that simulates **2D geometric transformations** using matrices and vectors.
+This repository contains Python code that simulates **2D geometric transformations** using matrices and vectors.
 
 ## Implemented Transformations
 
