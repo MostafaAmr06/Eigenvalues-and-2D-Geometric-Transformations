@@ -46,7 +46,7 @@ for i in range(len(dofda3)):
     show_outline(dofda3[i])
     show_outline(reflected_dofda3[i])
     show_outline(rotated_dofda3[i])
-    stats_text = f"Transformation Matrix 2:\n{np.round(transformation_matrix1.astype(float), 2)}\n\nTransformation Matrix 2:\n{np.round(transformation_matrix2.astype(float), 2)}"
+    stats_text = f"Transformation Matrix 1:\n{np.round(transformation_matrix1.astype(float), 2)}\n\nTransformation Matrix 2:\n{np.round(transformation_matrix2.astype(float), 2)}"
     plt.gcf().text(0.6, 0.2, stats_text, fontsize=9,  verticalalignment='center')
 
 
